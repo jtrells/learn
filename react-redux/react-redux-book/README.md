@@ -23,8 +23,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
-
-
-Example installing module:
-> npm install --save lodash
-> npm install --save youtube-api-search
